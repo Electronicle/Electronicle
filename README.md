@@ -1,4 +1,7 @@
 # Hi there 👋
+- 🔭 I’m currently working on
+  - Angular based website
+  - Unity Game
 - 🌱 I’m currently learning about
   - Hosting Databases
   - Implementing Full stack websites
