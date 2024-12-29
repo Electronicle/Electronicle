@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Electronicle/Electronicle/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Electronicle/Electronicle/blob/output/snake.svg" alt="Snake animation" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
